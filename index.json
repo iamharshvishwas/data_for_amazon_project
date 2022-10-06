@@ -1,0 +1,22 @@
+[
+  {
+    "id": 1,
+    "category": "Fashion"
+  },
+  {
+    "id": 2,
+    "category": "Gaming Acessories"
+  },
+  {
+    "id": 3,
+    "category": "Health & Beauty"
+  },
+  {
+    "id": 4,
+    "category": "Books"
+  },
+  {
+    "id": 5,
+    "category": "Mobiles"
+  }
+]
